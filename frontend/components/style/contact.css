@@ -1,0 +1,22 @@
+/* style/contact.css */
+
+.contact-us {
+  background-image: url('C:\Users\raart\Downloads\OIP15.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 50px 0; /* Adjust the top and bottom padding to control the content position */
+  display: flex; /* Use flexbox to center the content vertically */
+  flex-direction: column; /* Arrange the content in a column */
+  align-items: center; /* Center the content horizontally */
+  min-height: 100vh; /* Set a minimum height to ensure the content covers the viewport */
+}
+
+.contact-us p {
+  font-size: 30px;
+  color: white;
+}
+
+.contact-us h2 {
+  font-size: 50px;
+  color: rgb(157, 157, 9);
+}

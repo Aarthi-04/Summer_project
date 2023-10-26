@@ -1,0 +1,22 @@
+.footer {
+    background-color:white;
+    padding: 5px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+
+  .social-links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .social-links img {
+    height: 24px;
+    width: 24px;
+  }
+
+  

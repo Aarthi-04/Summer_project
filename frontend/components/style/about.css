@@ -1,0 +1,54 @@
+/* AboutUs.css */
+.about-us {
+    /* Replace "oip4.jpg" with the actual file name of the "OIP4" background image */
+    background-image: url('C:\Users\raart\Downloads\OIP10.jpeg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 170px;
+    
+  }
+
+  
+  
+  .about-us h2 {
+    font-size: 30px;
+    color: white;
+  }
+  
+  .about-us li {
+    font-size: 20px;
+    color: white;
+  }
+
+  .about-us p {
+    font-family:;
+    color: rgb(157, 157, 9);
+    font-size: 18px;
+    font-weight: bold;
+  }  
+  h2 {
+    cursor: pointer;
+    user-select: none; /* Disable text selection on click */
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+  
+  /* Style for the visible content */
+  .about-us ul {
+    display: none;
+  }
+  
+  /* Show the content when the parent h2 is clicked */
+  .about-us h2.active + ul {
+    display: block;
+  }
+  
+  
