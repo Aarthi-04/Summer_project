@@ -1,4 +1,4 @@
-# Summer_project
+# Surveillance marked object detection
 
 PROBLEM STATEMENT:-
     In today's world, we use a lot of surveillance cameras in public places, like streets, buses, and stores, to help keep people safe and stop bad things from happening. But watching all the recorded videos one by one takes a long time and is expensive. Because of this, we might miss seeing important things or people that we need to pay attention to.
